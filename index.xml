@@ -6,7 +6,21 @@
     <description>Recent content on WG Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Knowledage tips</title>
+      <link>/posts/tips/untitled/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tips/untitled/</guid>
+      <description>Tips&gt; Tips # 记录一些常用的东西和一些解决的报错问题
+version `CXXABI_1.3.9&amp;rsquo; not found&gt; version `CXXABI_1.3.9&amp;rsquo; not found # 这个问题产生的原因我并不清楚，可能是由于重装conda导致的，通过 这里找到解决方法：
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/your/path/to/conda/env/lib
+通过端口转发远程链接jupyter lab&gt; 通过端口转发远程链接jupyter lab # 首先是生成configure，然后对其中的特定参数进行修改
+jupyter-lab --generate-config #生成configure #下面在python中生成密码 from notebook.auth import passwd passwd() # 123456，拷贝获得的token #============= #修改config中的参数 c.</description>
+      
+    </item>
+    
     <item>
       <title>Hello R Markdown</title>
       <link>/posts/2020-12-01-r-rmarkdown/</link>

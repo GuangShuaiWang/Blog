@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on WG Blog</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on WG Blog</description>
+    <title>Everythings on WG Blog</title>
+    <link>/tags/everythings/</link>
+    <description>Recent content in Everythings on WG Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/everythings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Knowledage tips</title>
       <link>/posts/tips/untitled/</link>
@@ -18,15 +18,6 @@ version `CXXABI_1.3.9&amp;rsquo; not found&gt; version `CXXABI_1.3.9&amp;rsquo; 
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/your/path/to/conda/env/lib
 通过端口转发远程链接jupyter lab&gt; 通过端口转发远程链接jupyter lab # 首先是生成configure，然后对其中的特定参数进行修改
 jupyter-lab --generate-config #生成configure #下面在python中生成密码 from notebook.auth import passwd passwd() # 123456，拷贝获得的token #============= #修改config中的参数 c.</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/posts/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>/posts/2020-12-01-r-rmarkdown/</guid>
-      <description>R Markdown&gt; R Markdown # This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.</description>
     </item>
     
   </channel>

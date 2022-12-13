@@ -1,9 +1,9 @@
 ---
 title: "Knowledage tips"
 author: "Wanggsh"
-date: "`r sys.date()`"
-categories: ["R"]
-tags: ["R Markdown"]
+date: "`r Sys.Date()`"
+categories: ["Tips"]
+tags: ["Everythings"]
 ---
 
 # Tips
