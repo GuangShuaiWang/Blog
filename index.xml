@@ -14,10 +14,8 @@
       
       <guid>/posts/tips/untitled/</guid>
       <description>Tips&gt; Tips # 记录一些常用的东西和一些解决的报错问题
-version `CXXABI_1.3.9&amp;rsquo; not found&gt; version `CXXABI_1.3.9&amp;rsquo; not found # 这个问题产生的原因我并不清楚，可能是由于重装conda导致的，通过 这里找到解决方法：
-export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/your/path/to/conda/env/lib
-通过端口转发远程链接jupyter lab&gt; 通过端口转发远程链接jupyter lab # 首先是生成configure，然后对其中的特定参数进行修改
-jupyter-lab --generate-config #生成configure #下面在python中生成密码 from notebook.auth import passwd passwd() # 123456，拷贝获得的token #============= #修改config中的参数 c.</description>
+version `CXXABI_1.3.9&amp;rsquo; not found&gt; version `CXXABI_1.3.9&amp;rsquo; not found # 这个问题产生的原因我并不清楚，可能是由于重装conda导致的，通过 这里找到解决方法： export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/your/path/to/conda/env/lib
+通过端口转发远程链接jupyter lab&gt; 通过端口转发远程链接jupyter lab # 首先是生成configure，然后对其中的特定参数进行修改 jupyter-lab --generate-config #生成configure #下面在python中生成密码 from notebook.auth import passwd passwd() # 123456，拷贝获得的token #============= #修改config中的参数 c.</description>
       
     </item>
     
